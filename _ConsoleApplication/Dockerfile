@@ -1,0 +1,1 @@
+from microsoft/dotnet:onbuild
